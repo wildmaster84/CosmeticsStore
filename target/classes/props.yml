@@ -1,0 +1,395 @@
+woodenbat:
+  material: "iron_hoe"
+  durability: 1
+  name: "Wooden Bat"
+  permission: "foreverplay.prop.woodenbat"
+  price: 100
+woodencane:
+  material: "iron_hoe"
+  durability: 2
+  name: "Wooden Cane"
+  permission: "foreverplay.prop.woodencane"
+  price: 100
+heartstaff:
+  material: "iron_hoe"
+  durability: 3
+  name: "Heart Staff"
+  permission: "foreverplay.prop.heartstaff"
+  price: 100
+easterbasket:
+  material: "iron_hoe"
+  durability: 4
+  name: "Easter Basket (/buy)"
+  permission: "foreverplay.prop.easterbasket"
+  price: -1
+flowerbouquet:
+  material: "iron_hoe"
+  durability: 5
+  name: "Flower Bouquet"
+  permission: "foreverplay.prop.flowerbouquet"
+  price: 100
+leatherbag:
+  material: "iron_hoe"
+  durability: 6
+  name: "Leather Bag"
+  permission: "foreverplay.prop.leatherbag"
+  price: 100
+handcuffs:
+  material: "iron_hoe"
+  durability: 7
+  name: "Handcuffs"
+  permission: "foreverplay.prop.handcuffs"
+  price: 100
+sceptergold:
+  material: "iron_hoe"
+  durability: 8
+  name: "Gold Scepter"
+  permission: "foreverplay.prop.sceptergold"
+  price: 100
+knife:
+  material: "iron_hoe"
+  durability: 9
+  name: "Knife"
+  permission: "foreverplay.prop.knife"
+  price: 100
+piratesword:
+  material: "iron_hoe"
+  durability: 10
+  name: "Pirate Sword"
+  permission: "foreverplay.prop.piratesword"
+  price: 100
+hayfork:
+  material: "iron_hoe"
+  durability: 11
+  name: "Hay Fork"
+  permission: "foreverplay.prop.hayfork"
+  price: 100
+scepteriron:
+  material: "iron_hoe"
+  durability: 12
+  name: "Iron Scepter"
+  permission: "foreverplay.prop.scepteriron"
+  price: 100
+racquet:
+  material: "iron_hoe"
+  durability: 13
+  name: "Racquet"
+  permission: "foreverplay.prop.racquet"
+  price: 100
+walkytalky:
+  material: "iron_hoe"
+  durability: 14
+  name: "Walky Talky"
+  permission: "foreverplay.prop.walkytalky"
+  price: 100
+woolbagpink:
+  material: "iron_hoe"
+  durability: 15
+  name: "Wool Bag (Pink)"
+  permission: "foreverplay.prop.woolbagpink"
+  price: 100
+woolbagwhite:
+  material: "iron_hoe"
+  durability: 17
+  name: "Wool Bag (White)"
+  permission: "foreverplay.prop.woolbagwhite"
+  price: 100
+avocado:
+  material: "iron_hoe"
+  durability: 18
+  name: "Avocado"
+  permission: "foreverplay.prop.avocado"
+  price: 100
+woolbagblack:
+  material: "iron_hoe"
+  durability: 19
+  name: "Wool Bag (Black)"
+  permission: "foreverplay.prop.woolbagblack"
+  price: 100
+plushbear:
+  material: "iron_hoe"
+  durability: 20
+  name: "Bear Plush"
+  permission: "foreverplay.prop.plushbear"
+  price: 100
+plushbunny:
+  material: "iron_hoe"
+  durability: 21
+  name: "Bunny Plush"
+  permission: "foreverplay.prop.plushbunny"
+  price: 100
+dumbell:
+  material: "iron_hoe"
+  durability: 22
+  name: "Dumbell"
+  permission: "foreverplay.prop.dumbell"
+  price: 100
+## 23, 24, 25, 26 ##
+sushi:
+  material: "iron_hoe"
+  durability: 27
+  name: "Sushi"
+  permission: "foreverplay.prop.sushi"
+  price: 100
+gamegadget:
+  material: "iron_hoe"
+  durability: 28
+  name: "Game Gadget"
+  permission: "foreverplay.prop.gamegadget"
+  price: 100
+gun:
+  material: "iron_hoe"
+  durability: 29
+  name: "Gun"
+  permission: "foreverplay.prop.gun"
+  price: 100
+## 30, 31 ## 
+lightsaber:
+  material: "iron_hoe"
+  durability: 32
+  name: "Lightsaber"
+  permission: "foreverplay.prop.lightsaber"
+  price: 100
+lunchbox:
+  material: "iron_hoe"
+  durability: 33
+  name: "Lunch Box"
+  permission: "foreverplay.prop.lunchbox"
+  price: 100
+purse1:
+  material: "iron_hoe"
+  durability: 34
+  name: "White Wallet"
+  permission: "foreverplay.prop.purse1"
+  price: 100
+purse2:
+  material: "iron_hoe"
+  durability: 35
+  name: "Pink Wallet"
+  permission: "foreverplay.prop.purse2"
+  price: 100
+purse3:
+  material: "iron_hoe"
+  durability: 36
+  name: "Black Wallet"
+  permission: "foreverplay.prop.purse3"
+  price: 100
+sunglasses:
+  material: "iron_hoe"
+  durability: 37
+  name: "Sun Glasses"
+  permission: "foreverplay.prop.sunglasses"
+  price: 100
+tablet:
+  material: "iron_hoe"
+  durability: 38
+  name: "Tablet"
+  permission: "foreverplay.prop.tablet"
+  price: 100
+## 39, 40 ##
+rose:
+  material: "iron_hoe"
+  durability: 41
+  name: "Rose"
+  permission: "foreverplay.prop.rose"
+  price: 100
+teacup:
+  material: "iron_hoe"
+  durability: 42
+  name: "Tea Cup"
+  permission: "foreverplay.prop.teacup"
+  price: 100
+openbook:
+  material: "iron_hoe"
+  durability: 43
+  name: "Open Book"
+  permission: "foreverplay.prop.openbook"
+  price: 100
+teapot:
+  material: "iron_hoe"
+  durability: 44
+  name: "Tea Pot"
+  permission: "foreverplay.prop.teapot"
+  price: 100
+cocktail:
+  material: "iron_hoe"
+  durability: 45
+  name: "Cocktail (/buy)"
+  permission: "foreverplay.prop.daisy"
+  price: -1
+usaflag:
+  material: "iron_hoe"
+  durability: 46
+  name: "USA Flag (/buy)"
+  permission: "foreverplay.prop.usaflag"
+  price: -1
+harpoon:
+  material: "iron_hoe"
+  durability: 47
+  name: "Harpoon (/buy)"
+  permission: "foreverplay.pack.pirate"
+  price: -1
+hook:
+  material: "iron_hoe"
+  durability: 48
+  name: "Hook (/buy)"
+  permission: "foreverplay.pack.pirate"
+  price: -1
+## 49 ##
+masterball:
+  material: "iron_hoe"
+  durability: 50
+  name: "Master Ball (/buy)"
+  permission: "foreverplay.pack.pokemon"
+  price: -1
+mastersword:
+  material: "iron_hoe"
+  durability: 51
+  name: "Master Sword (/buy)"
+  permission: "foreverplay.pack.zelda"
+  price: -1
+pokedex:
+  material: "iron_hoe"
+  durability: 52
+  name: "Pokedex (/buy)"
+  permission: "foreverplay.pack.pokemon"
+  price: -1
+rescue:
+  material: "iron_hoe"
+  durability: 53
+  name: "Rescue Float (/buy)"
+  permission: "foreverplay.pack.surf"
+  price: -1
+shield:
+  material: "iron_hoe"
+  durability: 54
+  name: "Shield (/buy)"
+  permission: "foreverplay.pack.zelda"
+  price: -1
+surf:
+  material: "iron_hoe"
+  durability: 55
+  name: "Blue Surfboard (/buy)"
+  permission: "foreverplay.pack.surf"
+  price: -1
+surfgreen:
+  material: "iron_hoe"
+  durability: 56
+  name: "Green Surfboard (/buy)"
+  permission: "foreverplay.pack.surf"
+  price: -1
+surforange:
+  material: "iron_hoe"
+  durability: 57
+  name: "Orange Surfboard (/buy)"
+  permission: "foreverplay.pack.surf"
+  price: -1
+surfpink:
+  material: "iron_hoe"
+  durability: 58
+  name: "Pink Surfboard (/buy)"
+  permission: "foreverplay.pack.surf"
+  price: -1
+surfred:
+  material: "iron_hoe"
+  durability: 59
+  name: "Red Surfboard (/buy)"
+  permission: "foreverplay.pack.surf"
+  price: -1
+umbrella:
+  material: "iron_hoe"
+  durability: 60
+  name: "Blue Umbrella (/buy)"
+  permission: "foreverplay.pack.daisy"
+  price: -1
+umbrellagreen:
+  material: "iron_hoe"
+  durability: 61
+  name: "Green Umbrella (/buy)"
+  permission: "foreverplay.pack.daisy"
+  price: -1
+umbrellaorange:
+  material: "iron_hoe"
+  durability: 62
+  name: "Orange Umbrella (/buy)"
+  permission: "foreverplay.pack.daisy"
+  price: -1
+umbrellapink:
+  material: "iron_hoe"
+  durability: 63
+  name: "Pink Umbrella (/buy)"
+  permission: "foreverplay.pack.daisy"
+  price: -1
+umbrellared:
+  material: "iron_hoe"
+  durability: 64
+  name: "Red Umbrella (/buy)"
+  permission: "foreverplay.pack.daisy"
+  price: -1
+## 65 ##
+gingerbreadman:
+  material: "iron_hoe"
+  durability: 66
+  name: "Gingerbread Man (Event 2017)"
+  permission: "foreverplay.prop.gingerbreadman2017"
+  price: -1
+hotchocolate:
+  material: "iron_hoe"
+  durability: 67
+  name: "Hot Chocolate (Event 2017)"
+  permission: "foreverplay.prop.hotchocolate2017"
+  price: -1
+lantern:
+  material: "iron_hoe"
+  durability: 68
+  name: "Lantern (Event 2017)"
+  permission: "foreverplay.prop.lantern2017"
+  price: -1
+sled:
+  material: "iron_hoe"
+  durability: 69
+  name: "Sled (Event 2017)"
+  permission: "foreverplay.prop.sled2017"
+  price: -1
+teddy:
+  material: "iron_hoe"
+  durability: 70
+  name: "Teddy Bear (Event 2017)"
+  permission: "foreverplay.prop.teddy2017"
+  price: -1
+candycane:
+  material: "iron_hoe"
+  durability: 71
+  name: "Candy Cane (Event 2017)"
+  permission: "foreverplay.prop.candycane2017"
+  price: -1
+presenta:
+  material: "iron_hoe"
+  durability: 72
+  name: "Present (Event 2017)"
+  permission: "foreverplay.prop.presenta2017"
+  price: -1
+presentb:
+  material: "iron_hoe"
+  durability: 73
+  name: "Present (Event 2017)"
+  permission: "foreverplay.prop.presentb2017"
+  price: -1
+presentc:
+  material: "iron_hoe"
+  durability: 74
+  name: "Present (Event 2017)"
+  permission: "foreverplay.prop.presentc2017"
+  price: -1
+blueflower:
+  material: "iron_hoe"
+  durability: 75
+  name: "Blue Flower (Event 2018)"
+  permission: "foreverplay.prop.blueflower"
+  price: -1
+easterbunny:
+  material: "iron_hoe"
+  durability: 76
+  name: "Easter Bunny Plush (Event 2018)"
+  permission: "foreverplay.prop.easterbunny"
+  price: -1

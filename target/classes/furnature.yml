@@ -1,0 +1,1468 @@
+shower:
+  material: "diamond_hoe"
+  durability: 2
+  name: "shower"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+fridge:
+  material: "diamond_hoe"
+  durability: 3
+  name: "fridge"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_drawrs:
+  material: "diamond_hoe"
+  durability: 4
+  name: "wooden_drawrs"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_desk:
+  material: "diamond_hoe"
+  durability: 5
+  name: "wooden_desk"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+control_panel:
+  material: "diamond_hoe"
+  durability: 6
+  name: "control_panel"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+toilet:
+  material: "diamond_hoe"
+  durability: 12
+  name: "toilet"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+blue_lamp:
+  material: "diamond_hoe"
+  durability: 13
+  name: "blue_lamp"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+green_computer_chair:
+  material: "diamond_hoe"
+  durability: 15
+  name: "green_computer_chair"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_staff:
+  material: "diamond_hoe"
+  durability: 19
+  name: "wooden_staff"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+laptop:
+  material: "diamond_hoe"
+  durability: 20
+  name: "laptop"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_iron:
+  material: "diamond_hoe"
+  durability: 24
+  name: "locker_iron"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_gold:
+  material: "diamond_hoe"
+  durability: 25
+  name: "locker_gold"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_diamond:
+  material: "diamond_hoe"
+  durability: 26
+  name: "locker_diamond"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_emerald:
+  material: "diamond_hoe"
+  durability: 27
+  name: "shower"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_iron_open:
+  material: "diamond_hoe"
+  durability: 28
+  name: "locker_iron_open"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_gold_open:
+  material: "diamond_hoe"
+  durability: 29
+  name: "locker_gold_open"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_diamond_open:
+  material: "diamond_hoe"
+  durability: 30
+  name: "locker_diamond_open"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+locker_emerald_open:
+  material: "diamond_hoe"
+  durability: 31
+  name: "locker_emerald_open"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+coffee_mug_full:
+  material: "diamond_hoe"
+  durability: 33
+  name: "coffee_mug_full"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+coffee_mug:
+  material: "diamond_hoe"
+  durability: 34
+  name: "coffee_mug"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+cabinet_glass:
+  material: "diamond_hoe"
+  durability: 36
+  name: "cabinet_glass"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+grand_piano:
+  material: "diamond_hoe"
+  durability: 37
+  name: "grand_piano"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+guitar:
+  material: "diamond_hoe"
+  durability: 38
+  name: "guitar"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+microwave:
+  material: "diamond_hoe"
+  durability: 39
+  name: "microwave"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+oven:
+  material: "diamond_hoe"
+  durability: 40
+  name: "oven"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+saxophone:
+  material: "diamond_hoe"
+  durability: 41
+  name: "saxophone"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+coin:
+  material: "diamond_hoe"
+  durability: 44
+  name: "coin"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+point:
+  material: "diamond_hoe"
+  durability: 45
+  name: "point"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_cabinet:
+  material: "diamond_hoe"
+  durability: 73
+  name: "kitchen_cabinet"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_chair:
+  material: "diamond_hoe"
+  durability: 74
+  name: "kitchen_chair"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_glass:
+  material: "diamond_hoe"
+  durability: 75
+  name: "kitchen_glass"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_island_counter:
+  material: "diamond_hoe"
+  durability: 76
+  name: "kitchen_island_counter"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_knife_stand:
+  material: "diamond_hoe"
+  durability: 77
+  name: "kitchen_knife_stand"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_mini_fridge:
+  material: "diamond_hoe"
+  durability: 78
+  name: "kitchen_mini_fridge"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_plant:
+  material: "diamond_hoe"
+  durability: 79
+  name: "kitchen_plant"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_pots_and_pans:
+  material: "diamond_hoe"
+  durability: 80
+  name: "kitchen_pots_and_pans"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_sink:
+  material: "diamond_hoe"
+  durability: 82
+  name: "kitchen_sink"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_soda_can1:
+  material: "diamond_hoe"
+  durability: 83
+  name: "kitchen_soda_can1"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_soda_can2:
+  material: "diamond_hoe"
+  durability: 84
+  name: "kitchen_soda_can2"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_soda_can3:
+  material: "diamond_hoe"
+  durability: 85
+  name: "kitchen_soda_can3"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_soda_can4:
+  material: "diamond_hoe"
+  durability: 86
+  name: "kitchen_soda_can4"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_soda_can5:
+  material: "diamond_hoe"
+  durability: 87
+  name: "kitchen_soda_can5"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_table:
+  material: "diamond_hoe"
+  durability: 88
+  name: "kitchen_table"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+kitchen_washing_machine:
+  material: "diamond_hoe"
+  durability: 90
+  name: "kitchen_washing_machine"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_bar:
+  material: "diamond_hoe"
+  durability: 91
+  name: "wooden_bar"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_bookcase:
+  material: "diamond_hoe"
+  durability: 93
+  name: "wooden_bookcase"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_cabinet_small:
+  material: "diamond_hoe"
+  durability: 95
+  name: "wooden_cabinet_small"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_clock:
+  material: "diamond_hoe"
+  durability: 96
+  name: "wooden_clock"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_closet:
+  material: "diamond_hoe"
+  durability: 97
+  name: "wooden_closet"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_double_bed:
+  material: "diamond_hoe"
+  durability: 99
+  name: "wooden_double_bed"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_fence:
+  material: "diamond_hoe"
+  durability: 100
+  name: "wooden_fence"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_pillar:
+  material: "diamond_hoe"
+  durability: 101
+  name: "wooden_pillar"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_single_bed:
+  material: "diamond_hoe"
+  durability: 102
+  name: "wooden_single_bed"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_stool:
+  material: "diamond_hoe"
+  durability: 103
+  name: "wooden_stool"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wooden_table2:
+  material: "diamond_hoe"
+  durability: 104
+  name: "wooden_table2"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+couch:
+  material: "diamond_hoe"
+  durability: 105
+  name: "couch"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+couch_bent:
+  material: "diamond_hoe"
+  durability: 106
+  name: "couch_bent"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+book_case:
+  material: "diamond_hoe"
+  durability: 107
+  name: "book_case"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+couch_long:
+  material: "diamond_hoe"
+  durability: 108
+  name: "couch_long"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+coffee_table:
+  material: "diamond_hoe"
+  durability: 109
+  name: "coffee_table"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+newspaper:
+  material: "diamond_hoe"
+  durability: 110
+  name: "newspaper"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+plate:
+  material: "diamond_hoe"
+  durability: 111
+  name: "plate"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+potted_plant:
+  material: "diamond_hoe"
+  durability: 112
+  name: "potted_plant"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+cardboard_steve:
+  material: "diamond_hoe"
+  durability: 116
+  name: "cardboard_steve"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+cash_register:
+  material: "diamond_hoe"
+  durability: 117
+  name: "cash_register"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+projector:
+  material: "diamond_hoe"
+  durability: 118
+  name: "projector"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+gumball_machine:
+  material: "diamond_hoe"
+  durability: 120
+  name: "gumball_machine"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+popcorn_machine:
+  material: "diamond_hoe"
+  durability: 122
+  name: "popcorn_machine"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+foldable_chair:
+  material: "diamond_hoe"
+  durability: 123
+  name: "foldable_chair"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+soda_machine:
+  material: "diamond_hoe"
+  durability: 126
+  name: "soda_machine"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+broomstick:
+  material: "diamond_hoe"
+  durability: 127
+  name: "broomstick"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+candy_basket_empty:
+  material: "diamond_hoe"
+  durability: 128
+  name: "candy_basket_empty"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+candy_basket_full:
+  material: "diamond_hoe"
+  durability: 129
+  name: "candy_basket_full"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+headstone:
+  material: "diamond_hoe"
+  durability: 130
+  name: "headstone"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+headstone_with_dirt:
+  material: "diamond_hoe"
+  durability: 131
+  name: "headstone_with_dirt"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+headstone_with_dirt_cross:
+  material: "diamond_hoe"
+  durability: 132
+  name: "headstone_with_dirt_cross"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+fence:
+  material: "diamond_hoe"
+  durability: 136
+  name: "fence"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+lit_pumpkin:
+  material: "diamond_hoe"
+  durability: 137
+  name: "lit_pumpkin"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wheelbarrow:
+  material: "diamond_hoe"
+  durability: 142
+  name: "wheelbarrow"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+clippers:
+  material: "diamond_hoe"
+  durability: 143
+  name: "clippers"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+chainsaw:
+  material: "diamond_hoe"
+  durability: 144
+  name: "chainsaw"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+flamingo:
+  material: "diamond_hoe"
+  durability: 146
+  name: "flamingo"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+gnomes:
+  material: "diamond_hoe"
+  durability: 147
+  name: "gnomes"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+grill:
+  material: "diamond_hoe"
+  durability: 149
+  name: "grill"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+lawn_mower:
+  material: "diamond_hoe"
+  durability: 151
+  name: "lawn_mower"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+picket_fence:
+  material: "diamond_hoe"
+  durability: 152
+  name: "picket_fence"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+garden_pond:
+  material: "diamond_hoe"
+  durability: 153
+  name: "garden_pond"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+potted_plant2:
+  material: "diamond_hoe"
+  durability: 155
+  name: "potted_plant2"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+garden_shed:
+  material: "diamond_hoe"
+  durability: 156
+  name: "garden_shed"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+sprinkler:
+  material: "diamond_hoe"
+  durability: 157
+  name: "sprinkler"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+water_can:
+  material: "diamond_hoe"
+  durability: 159
+  name: "water_can"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+well:
+  material: "diamond_hoe"
+  durability: 160
+  name: "well"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+gold_ingots:
+  material: "diamond_hoe"
+  durability: 161
+  name: "gold_ingots"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+advent_wreath:
+  material: "diamond_hoe"
+  durability: 165
+  name: "advent_wreath"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+candy_cane:
+  material: "diamond_hoe"
+  durability: 166
+  name: "candy_cane"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+milk_and_cookies:
+  material: "diamond_hoe"
+  durability: 167
+  name: "milk_and_cookies"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+snow_globe:
+  material: "diamond_hoe"
+  durability: 169
+  name: "snow_globe"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+advent_wreath2:
+  material: "diamond_hoe"
+  durability: 170
+  name: "advent_wreath2"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+mistletoe:
+  material: "diamond_hoe"
+  durability: 171
+  name: "mistletoe"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+present1:
+  material: "diamond_hoe"
+  durability: 172
+  name: "present1"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+present2:
+  material: "diamond_hoe"
+  durability: 173
+  name: "present2"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+present3:
+  material: "diamond_hoe"
+  durability: 174
+  name: "present3"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+christmas_stocking:
+  material: "diamond_hoe"
+  durability: 177
+  name: "christmas_stocking"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+server_logo:
+  material: "diamond_hoe"
+  durability: 178
+  name: "server_logo"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+iceblue:
+  material: "diamond_hoe"
+  durability: 199
+  name: "iceblue"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+icered:
+  material: "diamond_hoe"
+  durability: 200
+  name: "icered"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+juice:
+  material: "diamond_hoe"
+  durability: 201
+  name: "juice"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+watergun_blue:
+  material: "diamond_hoe"
+  durability: 203
+  name: "watergun_blue"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+watergun_pink:
+  material: "diamond_hoe"
+  durability: 204
+  name: "watergun_pink"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+balloon:
+  material: "diamond_hoe"
+  durability: 210
+  name: "balloon"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+claws:
+  material: "diamond_hoe"
+  durability: 211
+  name: "claws"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+lolli:
+  material: "diamond_hoe"
+  durability: 212
+  name: "lolli"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0
+
+wand:
+  material: "diamond_hoe"
+  durability: 214
+  name: "wand"
+  permission: "foreverplay.furnature.shower"
+  price: 100
+  up: AIR
+  down: BARRIER
+  left: AIR
+  right: AIR
+  chair: false
+  height: 0.0

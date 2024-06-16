@@ -1,0 +1,19 @@
+name: CosmeticsStore
+author: wildmaster84
+api-version: 1.13
+description: plugin
+main: me.wild.CosmeticsStore
+version: "1.0"
+commands:
+  props:
+    description: Props command
+    usage: /props
+  hats:
+    description: Hats command
+    usage: /hats
+  furniture:
+    description: Furniture command
+    usage: /furniture
+  hat:
+    description: Hat command
+    usage: /hat

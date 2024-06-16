@@ -1,0 +1,384 @@
+fedora:
+  material: "stone_hoe"
+  durability: 1
+  name: "Fedora"
+  permission: "foreverplay.hat.fedora"
+  price: 100
+fez:
+  material: "stone_hoe"
+  durability: 2
+  name: "Fez"
+  permission: "foreverplay.hat.fez"
+  price: 100
+foreverplay-hat:
+  material: "stone_hoe"
+  durability: 3
+  name: "Foreverplay Hat"
+  permission: "foreverplay.hat.foreverplayhat"
+  price: 100
+cap-brown:
+  material: "stone_hoe"
+  durability: 4
+  name: "Brown Cap"
+  permission: "foreverplay.hat.browncap"
+  price: 100
+golf-hat:
+  material: "stone_hoe"
+  durability: 5
+  name: "Golf Hat"
+  permission: "foreverplay.hat.golfhat"
+  price: 100
+cap-blue:
+  material: "stone_hoe"
+  durability: 6
+  name: "Blue Cap"
+  permission: "foreverplay.hat.bluecap"
+  price: 100
+cap-golden:
+  material: "stone_hoe"
+  durability: 7
+  name: "Yellow Cap"
+  permission: "foreverplay.hat.goldencap"
+  price: 100
+gray-cap:
+  material: "stone_hoe"
+  durability: 8
+  name: "Gray Cap"
+  permission: "foreverplay.hat.graycap"
+  price: 100
+cat-ears-white:
+  material: "stone_hoe"
+  durability: 9
+  name: "White Cat Ears"
+  permission: "foreverplay.hat.whitecatears"
+  price: 100
+cat-ears-black:
+  material: "stone_hoe"
+  durability: 10
+  name: "Black Cat Ears"
+  permission: "foreverplay.hat.blackcatears"
+  price: 100
+bunny-ears:
+  material: "stone_hoe"
+  durability: 11
+  name: "Bunny Ears"
+  permission: "foreverplay.hat.bunnyears"
+  price: 100
+bolwer-hat:
+  material: "stone_hoe"
+  durability: 12
+  name: "Bolwer Hat"
+  permission: "foreverplay.hat.bowlerhat"
+  price: 100
+cowboy-hat:
+  material: "stone_hoe"
+  durability: 13
+  name: "Cowboy Hat"
+  permission: "foreverplay.hat.cowboyhat"
+  price: 100
+crown-king:
+  material: "stone_hoe"
+  durability: 14
+  name: "King Crown"
+  permission: "foreverplay.hat.crownking"
+  price: 100
+crown-queen:
+  material: "stone_hoe"
+  durability: 15
+  name: "Queen Crown"
+  permission: "foreverplay.hat.crownqueen"
+  price: 100
+crown-princess:
+  material: "stone_hoe"
+  durability: 16
+  name: "Princess Crown"
+  permission: "foreverplay.hat.crownprincess"
+  price: 100
+crown-prince:
+  material: "stone_hoe"
+  durability: 17
+  name: "Prince Crown"
+  permission: "foreverplay.hat.crownprince"
+  price: 100
+firefighter-helmet:
+  material: "stone_hoe"
+  durability: 18
+  name: "Firefighter Helmel"
+  permission: ""
+  price: 100
+flower-bow:
+  material: "stone_hoe"
+  durability: 19
+  name: "Flower Bow"
+  permission: "foreverplay.hat.flowerbow"
+  price: 100
+halo:
+  material: "stone_hoe"
+  durability: 20
+  name: "Halo"
+  permission: "foreverplay.hat.halo"
+  price: 100
+graduation-hat:
+  material: "stone_hoe"
+  durability: 21
+  name: "Graduation Hat"
+  permission: "foreverplay.hat.graduationhat"
+  price: 100
+motorcyclist-helmet:
+  material: "stone_hoe"
+  durability: 22
+  name: "Motorcyclist Helmet"
+  permission: "foreverplay.hat.motorcyclisthelmet"
+  price: 100
+police-hat:
+  material: "stone_hoe"
+  durability: 23
+  name: "Police Hat"
+  permission: "foreverplay.hat.policehat"
+  price: 100
+sombrero:
+  material: "stone_hoe"
+  durability: 24
+  name: "Sombrero"
+  permission: "foreverplay.hat.sombrero"
+  price: 100
+straw-hat:
+  material: "stone_hoe"
+  durability: 25
+  name: "Straw Hat"
+  permission: "foreverplay.hat.strawhat"
+  price: 100
+straw-hat-flower:
+  material: "stone_hoe"
+  durability: 26
+  name: "Straw Flower Hat"
+  permission: "foreverplay.hat.strawhatflower"
+  price: 100
+top-hat:
+  material: "stone_hoe"
+  durability: 27
+  name: "Top Hat"
+  permission: "foreverplay.hat.tophat"
+  price: 100
+clown-hat:
+  material: "stone_hoe"
+  durability: 28
+  name: "Clown Hat (Event)"
+  permission: "foreverplay.hat.clownhat"
+  price: 100
+knife-on-head-hat:
+  material: "stone_hoe"
+  durability: 29
+  name: "Knife On Head Hat (Event)"
+  permission: "foreverplay.hat.knifeonheadhat"
+  price: 100
+paperbag-hat:
+  material: "stone_hoe"
+  durability: 30
+  name: "Paperbag Hat (EVent)"
+  permission: "foreverplay.hat.paperbaghat"
+  price: 100
+advent-wreath:
+  material: "stone_hoe"
+  durability: 31
+  name: "Advent Wreath (Event)"
+  permission: "foreverplay.hat.adventwreath"
+  price: 100
+elf-hat:
+  material: "stone_hoe"
+  durability: 32
+  name: "Elf Hat"
+  permission: "foreverplay.hat.elfhat"
+  price: 100
+reindeer-hat:
+  material: "stone_hoe"
+  durability: 33
+  name: "Reindeer Hat"
+  permission: "foreverplay.hat.reindeerhat"
+  price: 100
+santa-hat:
+  material: "stone_hoe"
+  durability: 34
+  name: "Santa Hat"
+  permission: "foreverplay.hat.santahat"
+  price: 100
+sunglasses:
+  material: "stone_hoe"
+  durability: 35
+  name: "Sunglasses"
+  permission: "foreverplay.hat.sunglasses"
+  price: 100
+blue-ribbon:
+  material: "stone_hoe"
+  durability: 36
+  name: "Blue Ribbon"
+  permission: "foreverplay.hat.blueribbon"
+  price: 100
+chicken:
+  material: "stone_hoe"
+  durability: 37
+  name: "Chicken"
+  permission: "foreverplay.hat.chicken"
+  price: 100
+fried-egg:
+  material: "stone_hoe"
+  durability: 38
+  name: "Fried Egg"
+  permission: "foreverplay.hat.friedegg"
+  price: 100
+nest-crown:
+  material: "stone_hoe"
+  durability: 39
+  name: "Nest Crown"
+  permission: "foreverplay.hat.nestcrown"
+  price: 100
+bear-ears-brown:
+  material: "stone_hoe"
+  durability: 40
+  name: "Brown Bear Ears"
+  permission: "foreverplay.hat.bearearsbrown"
+  price: 100
+cat-ears-brown:
+  material: "stone_hoe"
+  durability: 41
+  name: "Brown Cat Ears"
+  permission: "foreverplay.hat.catearsbrown"
+  price: 100
+mouse-ears-white:
+  material: "stone_hoe"
+  durability: 42
+  name: "White Mouse Ears"
+  permission: "foreverplay.hat.mouseearswhite"
+  price: 100
+wolf-ears-white:
+  material: "stone_hoe"
+  durability: 43
+  name: "White Wolf Ears"
+  permission: "foreverplay.hat.wolfearswhite"
+  price: 100
+flowercrown:
+  material: "stone_hoe"
+  durability: 44
+  name: "Flowercrown (Event)"
+  permission: "foreverplay.hat.flowercrown"
+  price: 100
+pika:
+  material: "stone_hoe"
+  durability: 45
+  name: "Pika (Event)"
+  permission: "foreverplay.hat.pika"
+  price: 100
+pirate:
+  material: "stone_hoe"
+  durability: 46
+  name: "Pirate (Event)"
+  permission: "foreverplay.hat.pirate"
+  price: 100
+scuba:
+  material: "stone_hoe"
+  durability: 47
+  name: "Scuba (Event)"
+  permission: "foreverplay.hat.scuba"
+  price: 100
+linkhat:
+  material: "stone_hoe"
+  durability: 48
+  name: "Link Hat (Event)"
+  permission: "foreverplay.hat.linkhat"
+  price: 100
+girlglasses:
+  material: "stone_hoe"
+  durability: 49
+  name: "Girl Glasses (Event)"
+  permission: "foreverplay.hat.girlglasses"
+  price: 100
+manglasses:
+  material: "stone_hoe"
+  durability: 50
+  name: "Man Glasses (Event)"
+  permission: "foreverplay.hat.manglasses"
+  price: 100
+devil:
+  material: "stone_hoe"
+  durability: 51
+  name: "Devil (Murder Mystery)"
+  permission: "foreverplay.hat.devil"
+  price: 100
+jason:
+  material: "stone_hoe"
+  durability: 52
+  name: "Jason (Murder Mystery)"
+  permission: "foreverplay.hat.jason"
+  price: 100
+ninja:
+  material: "stone_hoe"
+  durability: 53
+  name: "Ninja (Murder Mystery)"
+  permission: "foreverplay.hat.ninja"
+  price: 100
+sherlock:
+  material: "stone_hoe"
+  durability: 54
+  name: "Sherlock (Murder Mystery)"
+  permission: "foreverplay.hat.sherlock"
+  price: 100
+skullmask:
+  material: "stone_hoe"
+  durability: 55
+  name: "Skull Mask (Murder Mystery)"
+  permission: "foreverplay.hat.skullmask"
+  price: 100
+rabbit-ears:
+  material: "stone_hoe"
+  durability: 56
+  name: "Rabbit Ears"
+  permission: "foreverplay.hat.rabbitears"
+  price: 100
+unicorn:
+  material: "stone_hoe"
+  durability: 57
+  name: "Unicorn (Event)"
+  permission: "foreverplay.hat.unicorn"
+  price: 100
+werewolfhead:
+  material: "stone_hoe"
+  durability: 58
+  name: "Werewolf Head (Event)"
+  permission: "foreverplay.hat.werewolfhead"
+  price: 100
+witchhat:
+  material: "stone_hoe"
+  durability: 59
+  name: "Witch Hat (Event)"
+  permission: "foreverplay.hat.witchhat"
+  price: 100
+chistmashat-2017:
+  material: "stone_hoe"
+  durability: 60
+  name: "Christmas Hat (2017 EVent)"
+  permission: "foreverplay.hat.christmashat2017"
+  price: 100
+reindeer-2017:
+  material: "stone_hoe"
+  durability: 61
+  name: "Reindeer (2017 Event)"
+  permission: ""
+  price: 100
+santa-2017:
+  material: "stone_hoe"
+  durability: 62
+  name: "Santa (2017 Event)"
+  permission: "foreverplay.hat.santa2017"
+  price: 100
+cap-black:
+  material: "stone_hoe"
+  durability: 63
+  name: "Black Cap"
+  permission: "foreverplay.hat.capblack"
+  price: 100
+bunny-ears-2018:
+  material: "stone_hoe"
+  durability: 64
+  name: "Bunny Ears (2018 Event)"
+  permission: "foreverplay.hat.bunnyears2018"
+  price: 100
